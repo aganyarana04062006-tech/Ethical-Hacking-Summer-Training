@@ -1,7 +1,7 @@
 Ethical Hacking Summer Training
 This repository documents my four-week Ethical Hacking Summer Training.
 
-Topics Covered,
+Topics Covered:-
 Footprinting and Reconnaissance,
 Network Scanning,
 Enumeration,
